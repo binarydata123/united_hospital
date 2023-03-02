@@ -80,6 +80,7 @@ class addbodylink extends Component {
         this.setState({ errors:''});
         let fields = this.state.fields;
         fields[event.target.name] = event.target.value;
+       
         this.setState({
             fields
         }, () => this.validateForm());
