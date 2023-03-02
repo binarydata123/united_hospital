@@ -33,7 +33,7 @@ if(window.location.hostname ==='localhost'){
     dynUrl = 'http://45.64.132.149:3388/zab';
     dynUrlSms = 'http://etherstaging.com/unitedhospitalapi/api';
 } else {
-    dynAdmUrl = 'http://unitedhospital.simranautomobiles.com/';
+    dynAdmUrl = 'http://etherstaging.com/unitedhospitalapi/api';
     //dynUrl = 'http://localhost/reactjs/demoreactapibackend/api';
     //dynUrl = 'https://cors-anywhere.herokuapp.com/http://45.64.132.130:3388/zab';
     //dynUrl = 'http://45.64.132.130:3388/zab';
